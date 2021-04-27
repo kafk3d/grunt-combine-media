@@ -1,7 +1,7 @@
 {
   "name": "grunt-group-media",
   "description": "Grunt plugin for node-combine-mq",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/kafk3d/grunt-combine-media",
   "author": "Building Blocks Ltd <info@building-blocks.com>",
   "maintainers": [
