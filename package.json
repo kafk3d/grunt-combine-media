@@ -1,41 +1,22 @@
 {
-  "name": "grunt-combine-mq",
+  "name": "grunt-group-media",
   "description": "Grunt plugin for node-combine-mq",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/frontendfriends/grunt-combine-mq",
   "author": "Building Blocks Ltd <info@building-blocks.com>",
   "maintainers": [
-    {
-      "name": "Paul Welsh",
-      "email": "spacedawwwg@gmail.com",
-      "web": "https://github.com/spacedawwwg"
-    },
-    {
-      "name": "Daniel Furze",
-      "email": "daniel@furzeface.com",
-      "web": "https://github.com/furzeface"
-    }
+    "Paul Welsh <spacedawwwg@gmail.com> (https://github.com/spacedawwwg)",
+    "Daniel Furze <daniel@furzeface.com> (https://github.com/furzeface)"
   ],
   "contributors": [
-    {
-      "name": "Paul Welsh",
-      "email": "spacedawwwg@gmail.com"
-    },
-    {
-      "name": "Daniel Furze",
-      "email": "daniel@furzeface.com"
-    },
-    {
-      "name": "John Cashmore"
-    },
-    {
-      "name": "Thomas Dobber",
-      "email": "thomasdobber@gmail.com"
-    }
+    "Paul Welsh <spacedawwwg@gmail.com>",
+    "Daniel Furze <daniel@furzeface.com>",
+    "John Cashmore",
+    "Thomas Dobber <thomasdobber@gmail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/frontendfriends/grunt-combine-mq.git"
+    "url": "git+https://github.com/frontendfriends/grunt-combine-mq.git"
   },
   "bugs": {
     "url": "https://github.com/frontendfriends/grunt-combine-mq/issues"
@@ -70,5 +51,10 @@
   },
   "keywords": [
     "gruntplugin"
-  ]
+  ],
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "license": "ISC"
 }
